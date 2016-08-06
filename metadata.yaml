@@ -1,0 +1,32 @@
+_repo: An-Old-Babylonian-Version-of-the-Gilgamesh-Epic_11000
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jastrow, Morris
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '8227'
+    url: http://www.gutenberg.org/2009/agents/8227
+    wikipedia: http://en.wikipedia.org/wiki/Morris_Jastrow,_Jr.
+  - agent_name: Clay, Albert Tobias
+    alias: Clay, Albert T. (Albert Tobias)
+    birthdate: 1866
+    deathdate: 1925
+    gutenberg_agent_id: '40396'
+    url: http://www.gutenberg.org/2009/agents/40396
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2006-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, Assyro-Babylonian'
+- !lcc 'PJ'
+- GITenberg
+title: An Old Babylonian Version of the Gilgamesh Epic
+url: http://www.gutenberg.org/ebooks/11000
